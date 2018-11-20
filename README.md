@@ -1,2 +1,2 @@
 # FrontEndScorpion
-FrontEnd repo for Project Scorpiom
+FrontEnd repo for Project Scorpion
